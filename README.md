@@ -14,3 +14,5 @@ Este projeto web apresenta uma seleção de 10 livros literários, cada um com s
 
 * **Listagem de Livros:** As 48 Leis do Poder; O Programador Pragmático; Crime e Castigo; 1984; Harry Potter e a Pedra Filosofal; O Hobbit; A Menina que Roubava Livros; Percy Jackson e o Ladrão de Raios.
 
+* **Link Para Acesso:** https://livros-alura.vercel.app
+
